@@ -1,0 +1,8 @@
+folium
+rasterio
+rtree
+geopandas
+geemap
+mapclassify
+contextily
+matplotlib_scalebar
