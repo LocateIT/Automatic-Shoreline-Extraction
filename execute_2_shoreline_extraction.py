@@ -63,7 +63,7 @@ else:
 
 rescale_image, transform = shoreline.resampling(image=Image, scale_factor=2.5)
       
-# Georeference in Maldives
+# Georeference in East Africa
 if epsg_code == str(32643):
   ncol = 4 - horizontal_step
   nrow = 1 + vertical_step
