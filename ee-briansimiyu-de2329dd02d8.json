@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ee-briansimiyu",
+  "private_key_id": "de2329dd02d8d95a2a5073b223e212bbface6a98",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDVP9BvMN4SOCFG\nU4xXVRMYLRl/p9VDNlJPPvRhBFQvMhjQTNOn8gSx2pFwpYel5fo9PXtirjAMp6dm\nzKzRyVOnx38qDk8w7EsM+2CAgZH4HM01qOdM48SYXVb3KWKtkOYMmD7lF+v3NZmk\n7RLXP95azIygxctete++ZcB/YWIhBmUu/I61hTCh8GrRQtGoQjgUjRyIWfaz8G8b\n7uk/7q9ZudjQ88/glJKzuyTX15m1t4nPmB3e1YtkEPCTjRao0OvJ/ebUgtG3bfCg\ntnaGrTSwNMCvTHPHg7qFkAeQw6o4Smxmt1TO+wAyYsH3nl1INgR3r1Ip2rT8m5bG\nQqJA00YbAgMBAAECggEASnQc0G2F42OQjo7GDYnJAGRipjTRW0WgiEWJKkRKJi4+\nBqAEN/tiUzxmEifhC/WXIIGSTjpV0V1Jr7UfU6GQoSAgkGztjj252F796vASKEfa\nB/WgSDKv5aiVH/dlmgbgox4Wu4LWInom2jPho6CLgDUxlkJoxnkMKvQ4uOCl07RW\nMse3PCDOG6eBRaM6KU78/qAHzrPdGJPh2tvDASLUOsLqQGlAZXU/nNXKA3ZHZOVL\n5oN1KIsx4BIcbFlTHrUOqdpDqOkQwHnhgEzat3yJxd7MrWgONVAuTDKfxq5QbjoW\neNULYIp3VxPo7EgpqPIBb5TlWy0Qic8k2d/5e3llJQKBgQDv1nVHtR4gSjjzoGYP\nWi0NVglDh2SJURh6Sm4b1xhHKCOWgjzghDzffG+bNVal9aToJUyVDHqMq7AhDhnD\nRNVJRY0KPUmJFQbS4v1Mbv98eW8NIfW4og+kXLdZg2rV6HDeCLZh6kfY6Ftg92Pa\nttSS6WRnzkSisFMZf1cybzi6LwKBgQDjnqrd0CGVTsxqhM52f/I+3srXpbqs4+pC\nweZp/k/mXFLjzcFTRgPg0VKLBl7uSd5c8z4vZqZDgdSyYeRaiKZfN2rXpMUfJ3Sd\nZpBvHRAToI4DHpGRXxntGzQTWeaAsoXbG2xbi7Hfr1tAFVs1NOumtwqftckPCb7h\nOym3gccz1QKBgFPM+E+k3jDkHkAp9F863/D/9d6tiRhdyJK6PPznTClYwg6N1R2R\ntv9TqF9v5KW6TfN7TOXrZUqPlswF9ESBYZDnh19jiLUoLqky/NRfGE/y0jWhfw0T\nOynv53SUcZjqTb2XB7rwtEf68CrSZgZ+yYnHmPiYXu0FdRO8pcgOiqCrAoGAO5pL\nscOTV66HlojqK1t7inz6bpeGF0mjCRIPDMg8Ed0xE1fIfM7DqzYEwETNzOXo5TwI\nl47wkJLJqGA71H0d26b+QjNyLqM9RQ4bWg0pLYqIRUbW5VMazdymuT58Pk0BAgvf\nRuWAkUswwMoW1QrjfgdGL+YBHP/3TLEaTmQcTnUCgYAPfWaNrFNd+jpjLkX7THDz\nV6h1uybvIEV2puB8xGu6g9eEHEGBWiDtDsNaP7cKbpGEMu6xMqXwdt/+XjjPsXVK\n+O8JC0gdziUyOAiXMdwL+vg8r4YO/K/8hc0fOTnbdQmpJhITKDDbMzvaGKjn1zS0\nHuJwlssL67SVJNgEwS5+FA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "brian-python@ee-briansimiyu.iam.gserviceaccount.com",
+  "client_id": "114778311626508908194",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/brian-python%40ee-briansimiyu.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
