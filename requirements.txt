@@ -7,3 +7,4 @@ mapclassify
 contextily
 matplotlib_scalebar
 opencv-python
+pyCRS
